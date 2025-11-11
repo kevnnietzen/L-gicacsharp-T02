@@ -1,0 +1,15 @@
+C:\Users\kevin.psilva3\source\repos\Condicionais\bin\Debug\net8.0\Condicionais.exe
+C:\Users\kevin.psilva3\source\repos\Condicionais\bin\Debug\net8.0\Condicionais.deps.json
+C:\Users\kevin.psilva3\source\repos\Condicionais\bin\Debug\net8.0\Condicionais.runtimeconfig.json
+C:\Users\kevin.psilva3\source\repos\Condicionais\bin\Debug\net8.0\Condicionais.dll
+C:\Users\kevin.psilva3\source\repos\Condicionais\bin\Debug\net8.0\Condicionais.pdb
+C:\Users\kevin.psilva3\source\repos\Condicionais\obj\Debug\net8.0\Condicionais.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kevin.psilva3\source\repos\Condicionais\obj\Debug\net8.0\Condicionais.AssemblyInfoInputs.cache
+C:\Users\kevin.psilva3\source\repos\Condicionais\obj\Debug\net8.0\Condicionais.AssemblyInfo.cs
+C:\Users\kevin.psilva3\source\repos\Condicionais\obj\Debug\net8.0\Condicionais.csproj.CoreCompileInputs.cache
+C:\Users\kevin.psilva3\source\repos\Condicionais\obj\Debug\net8.0\Condicionais.sourcelink.json
+C:\Users\kevin.psilva3\source\repos\Condicionais\obj\Debug\net8.0\Condicionais.dll
+C:\Users\kevin.psilva3\source\repos\Condicionais\obj\Debug\net8.0\refint\Condicionais.dll
+C:\Users\kevin.psilva3\source\repos\Condicionais\obj\Debug\net8.0\Condicionais.pdb
+C:\Users\kevin.psilva3\source\repos\Condicionais\obj\Debug\net8.0\Condicionais.genruntimeconfig.cache
+C:\Users\kevin.psilva3\source\repos\Condicionais\obj\Debug\net8.0\ref\Condicionais.dll
