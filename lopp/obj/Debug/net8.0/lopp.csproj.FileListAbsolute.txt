@@ -1,0 +1,15 @@
+C:\Users\kevin.psilva3\source\repos\lopp\bin\Debug\net8.0\lopp.exe
+C:\Users\kevin.psilva3\source\repos\lopp\bin\Debug\net8.0\lopp.deps.json
+C:\Users\kevin.psilva3\source\repos\lopp\bin\Debug\net8.0\lopp.runtimeconfig.json
+C:\Users\kevin.psilva3\source\repos\lopp\bin\Debug\net8.0\lopp.dll
+C:\Users\kevin.psilva3\source\repos\lopp\bin\Debug\net8.0\lopp.pdb
+C:\Users\kevin.psilva3\source\repos\lopp\obj\Debug\net8.0\lopp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kevin.psilva3\source\repos\lopp\obj\Debug\net8.0\lopp.AssemblyInfoInputs.cache
+C:\Users\kevin.psilva3\source\repos\lopp\obj\Debug\net8.0\lopp.AssemblyInfo.cs
+C:\Users\kevin.psilva3\source\repos\lopp\obj\Debug\net8.0\lopp.csproj.CoreCompileInputs.cache
+C:\Users\kevin.psilva3\source\repos\lopp\obj\Debug\net8.0\lopp.sourcelink.json
+C:\Users\kevin.psilva3\source\repos\lopp\obj\Debug\net8.0\lopp.dll
+C:\Users\kevin.psilva3\source\repos\lopp\obj\Debug\net8.0\refint\lopp.dll
+C:\Users\kevin.psilva3\source\repos\lopp\obj\Debug\net8.0\lopp.pdb
+C:\Users\kevin.psilva3\source\repos\lopp\obj\Debug\net8.0\lopp.genruntimeconfig.cache
+C:\Users\kevin.psilva3\source\repos\lopp\obj\Debug\net8.0\ref\lopp.dll
