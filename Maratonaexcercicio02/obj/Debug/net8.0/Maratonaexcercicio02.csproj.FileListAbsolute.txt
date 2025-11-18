@@ -1,0 +1,5 @@
+C:\Users\kevin.psilva3\source\repos\Maratonaexcercicio02\obj\Debug\net8.0\Maratonaexcercicio02.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kevin.psilva3\source\repos\Maratonaexcercicio02\obj\Debug\net8.0\Maratonaexcercicio02.AssemblyInfoInputs.cache
+C:\Users\kevin.psilva3\source\repos\Maratonaexcercicio02\obj\Debug\net8.0\Maratonaexcercicio02.AssemblyInfo.cs
+C:\Users\kevin.psilva3\source\repos\Maratonaexcercicio02\obj\Debug\net8.0\Maratonaexcercicio02.csproj.CoreCompileInputs.cache
+C:\Users\kevin.psilva3\source\repos\Maratonaexcercicio02\obj\Debug\net8.0\Maratonaexcercicio02.sourcelink.json

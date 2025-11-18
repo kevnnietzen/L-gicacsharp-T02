@@ -1,0 +1,15 @@
+C:\Users\kevin.psilva3\source\repos\Vetoresematrizes\bin\Debug\net8.0\Vetoresematrizes.exe
+C:\Users\kevin.psilva3\source\repos\Vetoresematrizes\bin\Debug\net8.0\Vetoresematrizes.deps.json
+C:\Users\kevin.psilva3\source\repos\Vetoresematrizes\bin\Debug\net8.0\Vetoresematrizes.runtimeconfig.json
+C:\Users\kevin.psilva3\source\repos\Vetoresematrizes\bin\Debug\net8.0\Vetoresematrizes.dll
+C:\Users\kevin.psilva3\source\repos\Vetoresematrizes\bin\Debug\net8.0\Vetoresematrizes.pdb
+C:\Users\kevin.psilva3\source\repos\Vetoresematrizes\obj\Debug\net8.0\Vetoresematrizes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kevin.psilva3\source\repos\Vetoresematrizes\obj\Debug\net8.0\Vetoresematrizes.AssemblyInfoInputs.cache
+C:\Users\kevin.psilva3\source\repos\Vetoresematrizes\obj\Debug\net8.0\Vetoresematrizes.AssemblyInfo.cs
+C:\Users\kevin.psilva3\source\repos\Vetoresematrizes\obj\Debug\net8.0\Vetoresematrizes.csproj.CoreCompileInputs.cache
+C:\Users\kevin.psilva3\source\repos\Vetoresematrizes\obj\Debug\net8.0\Vetoresematrizes.sourcelink.json
+C:\Users\kevin.psilva3\source\repos\Vetoresematrizes\obj\Debug\net8.0\Vetoresematrizes.dll
+C:\Users\kevin.psilva3\source\repos\Vetoresematrizes\obj\Debug\net8.0\refint\Vetoresematrizes.dll
+C:\Users\kevin.psilva3\source\repos\Vetoresematrizes\obj\Debug\net8.0\Vetoresematrizes.pdb
+C:\Users\kevin.psilva3\source\repos\Vetoresematrizes\obj\Debug\net8.0\Vetoresematrizes.genruntimeconfig.cache
+C:\Users\kevin.psilva3\source\repos\Vetoresematrizes\obj\Debug\net8.0\ref\Vetoresematrizes.dll
