@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Vetoresematrizes")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+8d000f6a0064eed74514bb59a614e5d5b6758776")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+3c3d6324336032988a35dadb9b8892f184561382")]
 [assembly: System.Reflection.AssemblyProductAttribute("Vetoresematrizes")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Vetoresematrizes")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

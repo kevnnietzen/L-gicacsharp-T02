@@ -3,3 +3,13 @@ C:\Users\kevin.psilva3\source\repos\Maratonaexcercicio02\obj\Debug\net8.0\Marato
 C:\Users\kevin.psilva3\source\repos\Maratonaexcercicio02\obj\Debug\net8.0\Maratonaexcercicio02.AssemblyInfo.cs
 C:\Users\kevin.psilva3\source\repos\Maratonaexcercicio02\obj\Debug\net8.0\Maratonaexcercicio02.csproj.CoreCompileInputs.cache
 C:\Users\kevin.psilva3\source\repos\Maratonaexcercicio02\obj\Debug\net8.0\Maratonaexcercicio02.sourcelink.json
+C:\Users\kevin.psilva3\source\repos\Maratonaexcercicio02\bin\Debug\net8.0\Maratonaexcercicio02.exe
+C:\Users\kevin.psilva3\source\repos\Maratonaexcercicio02\bin\Debug\net8.0\Maratonaexcercicio02.deps.json
+C:\Users\kevin.psilva3\source\repos\Maratonaexcercicio02\bin\Debug\net8.0\Maratonaexcercicio02.runtimeconfig.json
+C:\Users\kevin.psilva3\source\repos\Maratonaexcercicio02\bin\Debug\net8.0\Maratonaexcercicio02.dll
+C:\Users\kevin.psilva3\source\repos\Maratonaexcercicio02\bin\Debug\net8.0\Maratonaexcercicio02.pdb
+C:\Users\kevin.psilva3\source\repos\Maratonaexcercicio02\obj\Debug\net8.0\Maratonaexcercicio02.dll
+C:\Users\kevin.psilva3\source\repos\Maratonaexcercicio02\obj\Debug\net8.0\refint\Maratonaexcercicio02.dll
+C:\Users\kevin.psilva3\source\repos\Maratonaexcercicio02\obj\Debug\net8.0\Maratonaexcercicio02.pdb
+C:\Users\kevin.psilva3\source\repos\Maratonaexcercicio02\obj\Debug\net8.0\Maratonaexcercicio02.genruntimeconfig.cache
+C:\Users\kevin.psilva3\source\repos\Maratonaexcercicio02\obj\Debug\net8.0\ref\Maratonaexcercicio02.dll
